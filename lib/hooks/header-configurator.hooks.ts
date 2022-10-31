@@ -1,6 +1,6 @@
 import { IncomingMessage, ServerResponse } from "http";
 import vary from "vary";
-import { HttpMethods } from "@istanbul/core";
+import { HttpMethods } from "@galatajs/core";
 import { BaseConfig } from "../types/config.type";
 import { Header } from "../types/header.type";
 import {

@@ -1,4 +1,4 @@
-import { HttpMethods } from "@istanbul/core";
+import { HttpMethods } from "@galatajs/core";
 
 export interface CorsConfig extends BaseConfig {
   wsEnabled: boolean;

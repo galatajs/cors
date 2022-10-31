@@ -1,5 +1,5 @@
 /**
- * istanbul @cors
+ * galatajs @cors
  * Copyright(c) 2022 Sami Salih İBRAHİMBAŞ
  * MIT Licensed
  */

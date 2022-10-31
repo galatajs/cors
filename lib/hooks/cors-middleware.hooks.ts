@@ -1,6 +1,6 @@
 import { IncomingMessage, ServerResponse } from "http";
-import { NextFunction, CoreMiddleware } from "@istanbul/http";
-import { BadRequestError } from "@istanbul/core";
+import { NextFunction, CoreMiddleware } from "@galatajs/http";
+import { BadRequestError } from "@galatajs/core";
 import { createConfig } from "./config.hooks";
 import { BaseConfig } from "../types/config.type";
 import { CorsConfig } from "../types/config.type";

@@ -1,6 +1,6 @@
-import { Middleware } from "@istanbul/http";
-import { CorePlugin } from "@istanbul/app";
-import { HttpMethods } from "@istanbul/core";
+import { Middleware } from "@galatajs/http";
+import { CorePlugin } from "@galatajs/app";
+import { HttpMethods } from "@galatajs/core";
 
 export interface Cors extends CorePlugin {}
 

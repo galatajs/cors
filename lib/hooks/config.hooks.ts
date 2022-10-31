@@ -1,4 +1,4 @@
-import { HttpMethods } from "@istanbul/core";
+import { HttpMethods } from "@galatajs/core";
 import { getFieldIsExists } from "../utils/util";
 import { BaseOptions } from "../types/cors.type";
 import { BaseConfig, CorsConfig } from "../types/config.type";
